@@ -1,3 +1,4 @@
+// Make function - Give me your solution in real "fixed" code, if necessary
 function FizzBuzz(num){
     let x = 0
     let y = 3
@@ -20,7 +21,7 @@ function FizzBuzz(num){
         else {
             console.log(x)
         }
-        x++
+        x ++
     }
 }
 
